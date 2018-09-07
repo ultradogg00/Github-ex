@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		75ABB57521430136002D9290 /* thanos car.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 75ABB57421430136002D9290 /* thanos car.jpg */; };
 		75BFFCCE2141CCE400C0B754 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75BFFCCD2141CCE400C0B754 /* AppDelegate.swift */; };
 		75BFFCD02141CCE400C0B754 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75BFFCCF2141CCE400C0B754 /* ViewController.swift */; };
 		75BFFCD32141CCE400C0B754 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 75BFFCD12141CCE400C0B754 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		75ABB57421430136002D9290 /* thanos car.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "thanos car.jpg"; path = "../../../../../Downloads/thanos car.jpg"; sourceTree = "<group>"; };
 		75BFFCCA2141CCE400C0B754 /* Github ex.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Github ex.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		75BFFCCD2141CCE400C0B754 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		75BFFCCF2141CCE400C0B754 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				75BFFCD12141CCE400C0B754 /* Main.storyboard */,
 				75BFFCD42141CCE500C0B754 /* Assets.xcassets */,
 				75BFFCD62141CCE500C0B754 /* LaunchScreen.storyboard */,
+				75ABB57421430136002D9290 /* thanos car.jpg */,
 				75BFFCD92141CCE500C0B754 /* Info.plist */,
 			);
 			path = "Github ex";
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				75ABB57521430136002D9290 /* thanos car.jpg in Resources */,
 				75BFFCD82141CCE500C0B754 /* LaunchScreen.storyboard in Resources */,
 				75BFFCD52141CCE500C0B754 /* Assets.xcassets in Resources */,
 				75BFFCD32141CCE400C0B754 /* Main.storyboard in Resources */,
