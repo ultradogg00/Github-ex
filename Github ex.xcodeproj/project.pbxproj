@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		75ABB57721430663002D9290 /* thanos car.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 75ABB57621430663002D9290 /* thanos car.jpg */; };
+		75ABB57921430985002D9290 /* readme.md in Resources */ = {isa = PBXBuildFile; fileRef = 75ABB57821430985002D9290 /* readme.md */; };
 		75BFFCCE2141CCE400C0B754 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75BFFCCD2141CCE400C0B754 /* AppDelegate.swift */; };
 		75BFFCD02141CCE400C0B754 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75BFFCCF2141CCE400C0B754 /* ViewController.swift */; };
 		75BFFCD32141CCE400C0B754 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 75BFFCD12141CCE400C0B754 /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		75ABB57621430663002D9290 /* thanos car.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "thanos car.jpg"; path = "../../../Downloads/thanos car.jpg"; sourceTree = "<group>"; };
+		75ABB57821430985002D9290 /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
 		75BFFCCA2141CCE400C0B754 /* Github ex.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Github ex.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		75BFFCCD2141CCE400C0B754 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		75BFFCCF2141CCE400C0B754 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -40,6 +42,7 @@
 		75BFFCC12141CCE400C0B754 = {
 			isa = PBXGroup;
 			children = (
+				75ABB57821430985002D9290 /* readme.md */,
 				75BFFCCC2141CCE400C0B754 /* Github ex */,
 				75BFFCCB2141CCE400C0B754 /* Products */,
 			);
@@ -128,6 +131,7 @@
 				75ABB57721430663002D9290 /* thanos car.jpg in Resources */,
 				75BFFCD82141CCE500C0B754 /* LaunchScreen.storyboard in Resources */,
 				75BFFCD52141CCE500C0B754 /* Assets.xcassets in Resources */,
+				75ABB57921430985002D9290 /* readme.md in Resources */,
 				75BFFCD32141CCE400C0B754 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
